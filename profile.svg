@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="1400" height="760"
+    viewBox="0 0 1400 760">
+
+    <style>
+        .bg        { fill: #0d1117; }
+        .panel-line{ stroke: #30363d; stroke-width: 1; }
+
+        .ascii {
+            font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+            font-size: 11px;
+            fill: #e6edf3;
+            white-space: pre;
+            letter-spacing: 0;
+        }
+
+        .title {
+            font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+            font-size: 28px; font-weight: 700; fill: #58a6ff;
+        }
+        .subtitle {
+            font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+            font-size: 15px; fill: #8b949e;
+        }
+        .label {
+            font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+            font-size: 15px; font-weight: 700; fill: #58a6ff;
+        }
+        .value {
+            font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+            font-size: 15px; fill: #c9d1d9;
+        }
+    </style>
+
+    <rect class="bg" x="0" y="0" width="100%" height="100%" rx="18"/>
+    <line class="panel-line" x1="730" y1="50" x2="730" y2="710"/>
+
+    <text x="44" y="72" class="ascii"></text><text x="44" y="83" class="ascii">                       'I&lt;,                   &quot;l&quot;</text><text x="44" y="94" class="ascii">                      &quot;~)ux;                 :+)f;</text><text x="44" y="105" class="ascii">                     '+_/jx)                :-/rn[</text><text x="44" y="116" class="ascii">                     :_?rrjn_              &quot;_/xjx1</text><text x="44" y="127" class="ascii">                     !_-jrjx|              &gt;[xjjx}</text><text x="44" y="138" class="ascii">                     &gt;_-rrjx}             ,_-frxx;</text><text x="44" y="149" class="ascii">                     `+_1xjx_   '`^^&quot;^`'  ^~_ff)i</text><text x="44" y="160" class="ascii">                      ,&lt;+)jr)[(/ffjjrjft|)1(}j)^</text><text x="44" y="171" class="ascii">                      ^i+-|rrxxrrrrrrrrrxxxxxr/&gt;</text><text x="44" y="182" class="ascii">                    :&gt;+[)ttfrjjjjjjjjjjjjjjjtffr].</text><text x="44" y="193" class="ascii">                  'i_}|vQ0QvfrrrrrxnxxrrrrjjCOZrx|:</text><text x="44" y="204" class="ascii">       ...'''..  `&lt;_-fr$al(Brjrrt([]-?(rrr/o)l8W/nf` '`^^'.</text><text x="44" y="215" class="ascii">        ....'''^I~+~_ffZhJQCjrrrjf1-+{frrxf0pd#Lf|){l''</text><text x="44" y="226" class="ascii">     . .'```^`';++~&lt;{xt)/rt(tttfjrnvvuxrjtt|jx/|jf1)};;,&quot;,^'.</text><text x="44" y="237" class="ascii">              ^+++~_fjLpmCwqwOhoMWh&amp;%88h*kpLOOLCvfj)|[&quot;^,,&quot;^.</text><text x="44" y="248" class="ascii">     .''''```^i~+_+_(fvZp#$$@8$$$$W%$$$&amp;@$$BW#Qcxjrrrr);    .</text><text x="44" y="259" class="ascii">           .:&gt;___+_+~1f//xz0Zwa*M&amp;k8B%%ahhmYjttfjrrrrjxr}&quot;</text><text x="44" y="270" class="ascii">          &quot;+-_+++_+-trrrrf/|(((//tfrrjxjt|(|tfjrrrrrrrjjxj&gt;</text><text x="44" y="281" class="ascii">        &quot;&gt;__++++__+)r//frnczCZqda#MoqdMM*hpCYznf/frrrrrrjrx&lt;</text><text x="44" y="292" class="ascii">       ;-_++_++_+&lt;1jx0a*M8B@$$$$&amp;kaW$$@B@$$$$$8Mqcttrrrrrrjx}'</text><text x="44" y="303" class="ascii">      ,+++++++_&lt;+ukW8oaW@@%%%%hz||ttn0W%%%%8bzjzp8azrtrxf/rjn).</text><text x="44" y="314" class="ascii">     ;_+++_&lt;~_+]L$#LxjxnzhB%%B0CkMW*qL#$B%BdcLm0znk$WL/tf(rjjn[</text><text x="44" y="325" class="ascii">    `_+++_~&lt;_&gt;jw*JfUk8B8M&amp;$$@$$$$BB$$$*hM%$B$$$$$%8@B@hJx)trrjn&gt;</text><text x="44" y="336" class="ascii">    l_++_+&lt;++cZd8d%$$B%%$%dXncJb%%%pcftfrvCM%%%B&amp;oba%@@$&amp;z[xjjrt'</text><text x="44" y="347" class="ascii">   ,_+++_&gt;&lt;&lt;jwZ*QnuYbB%BannC0JUC&amp;B80Zh#&amp;&amp;#hWB%%OzcutfdB8BBffrrjx&gt;</text><text x="44" y="358" class="ascii">   i_++++_l(w0qutJOUOB%BWM@$$$$$B%B$$$@BB@$B%%%W%@@MLv8B8$Z/rrjx1</text><text x="44" y="369" class="ascii">   &gt;_+++_&lt;~0OwbwB$$$$%%%BB%%%%%%%%%%%%%%%%%%%%%BB%%B$B%%%@otrrjr/.</text><text x="44" y="380" class="ascii">  `++++_+~Um0w%$%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Bnfrrrr;</text><text x="44" y="391" class="ascii">  :_+++_&gt;rq0Z0bB%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@ctrrjr&quot;</text><text x="44" y="402" class="ascii">  &quot;_+++_&lt;zmOZ0dB%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Bcfrjn[</text><text x="44" y="413" class="ascii">   i_++_~UmOOOm8%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@ufrx/'</text><text x="44" y="424" class="ascii">   `_+++_LZOOZ0#B8%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%B*fjrf&quot;</text><text x="44" y="435" class="ascii">    I-_~?0ZOOO0m8@@B%%%%%%%%%%%%%%%%%%%%%%%%%%%%B@B@@B%B&amp;pL|rni</text><text x="44" y="446" class="ascii">     ;+++QZOOOwZmdk&amp;@$$B%%%%%%%%%%%%%%%%%%%%%@$@WoMha&amp;B*wOY/j+</text><text x="44" y="457" class="ascii">      ~~)JZOZZn{-~+/c0dW$%%%%%%%%%%%%%%%%%%%$ou|})rtfxuv0wz]!</text><text x="44" y="468" class="ascii">      ` |w0Z0[&lt;&lt;_(fjfttfw8@%%%%%%%%%%%%%%%%$C+i+trrrrjj(zm1;`</text><text x="44" y="479" class="ascii">        ^xmZt&gt;_[fxrrrrrj/rd$%%%%%%%%%%%%%B%ji+]jxjrrrrrjxn</text><text x="44" y="490" class="ascii">         ^Lm_~_trjx/(rr|tr|pB%BBBBBBBBBBB@n!_+/r/rrrrrr/rI</text><text x="44" y="501" class="ascii">          ;Cc&gt;-jx)ft)(|)|tjtmwbokba*obdkkz&gt;_-~_}{jtfjrt&lt;&gt;</text><text x="44" y="512" class="ascii">           :t}+?ft]//(jttt|(YZQ0QQQQQQ0QO[&lt;[/t1/1-})xt_^</text><text x="44" y="523" class="ascii">             `;~-[(rrrrxxn)_Ummmqqqqwwwwq(&lt;xxrrrjf/+/_'</text><text x="44" y="534" class="ascii">               `&gt;&lt;)xrrrt([I',I!i?[{)[+_&lt;i^,}frrrrr(&lt;;</text><text x="44" y="545" class="ascii">                 '&quot;llI,^'                  .&quot;IllI:`</text><text x="44" y="556" class="ascii"></text>
+
+    <text x="800" y="90"      class="title">andreauxue@github</text>
+    <text x="800" y="118" class="subtitle">profile card</text>
+    <line class="panel-line" x1="800" y1="118" x2="1320" y2="118"/>
+
+    
+            <text x="800"       y="165" class="label">USER</text>
+            <text x="950" y="165" class="value">@andreauxue</text>
+        
+            <text x="800"       y="209" class="label">NAME</text>
+            <text x="950" y="209" class="value">Andrea Uxue Amaya Navarrete</text>
+        
+            <text x="800"       y="253" class="label">ROLE</text>
+            <text x="950" y="253" class="value">Software Engineer · Data Engineer</text>
+        
+            <text x="800"       y="297" class="label">EDUCATION</text>
+            <text x="950" y="297" class="value">Applied Mathematics · UNAM</text>
+        
+            <text x="800"       y="341" class="label">LOCATION</text>
+            <text x="950" y="341" class="value">Mexico City, Mexico</text>
+        
+            <text x="800"       y="385" class="label">GITHUB</text>
+            <text x="950" y="385" class="value">github.com/andreauxue</text>
+        
+            <text x="800"       y="429" class="label">LANG</text>
+            <text x="950" y="429" class="value">Python · TypeScript · JavaScript · SQL</text>
+        
+            <text x="800"       y="473" class="label">FRONTEND</text>
+            <text x="950" y="473" class="value">React · Next.js · Tailwind</text>
+        
+            <text x="800"       y="517" class="label">BACKEND</text>
+            <text x="950" y="517" class="value">Django · FastAPI · Node.js · .NET</text>
+        
+            <text x="800"       y="561" class="label">DATA</text>
+            <text x="950" y="561" class="value">ETL · Pandas · ML · Power BI</text>
+        
+            <text x="800"       y="605" class="label">DEVOPS</text>
+            <text x="950" y="605" class="value">Docker · Linux · Nginx · Git</text>
+        
+            <text x="800"       y="649" class="label">RESEARCH</text>
+            <text x="950" y="649" class="value">ML · Survival Analysis</text>
+        
+</svg>
